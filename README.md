@@ -7,7 +7,8 @@
   I'm a backend developer from Moscow(🇷🇺) who writes code, hosts, and deploys it.</h3>
 <p align="center">
   <a href="https://github.com/Gevorgeorg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Building+robust+backends;Deploying+with+CI/CD;Integrating+S3+and+Sentry;Automating+infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Building+robust+backends;
+      Deploying+with+CI/CD;Integrating+3rd-party+services+(S3,+Sentry,+Telegram,+etc.)" alt="Typing SVG" />
   </a>
 </p>
 
