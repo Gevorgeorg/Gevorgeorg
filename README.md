@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/Gevorgeorg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Building+robust+backends;
-      Deploying+with+CI/CD;Integrating+3rd-party+services+(S3,+Sentry,+Telegram,+etc.)" alt="Typing SVG" />
+      Deploying+with+CI/CD;Integrating+3rd-party+services+(S3,+Sentry,+Telegram,+etc.)" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -25,8 +25,6 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![S3](https://img.shields.io/badge/-S3-569A31?logo=amazon-s3&logoColor=white)
-![Sentry](https://img.shields.io/badge/-Sentry-3C2A6D?logo=sentry&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
