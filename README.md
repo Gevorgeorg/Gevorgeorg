@@ -1,13 +1,13 @@
 <!-- 
-  Hi! This is my GitHub profile README.
+
 -->
 
-<h1 align="center">Hi 👋, I'm Leonid</h1>
-<h3 align="center">Python Backend Developer | Django • REST</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://t.me/ErnestoMK" target="_blank">Leonid</a></h1>
+<h3 align="center">Backend Developer from Moscow 🇷🇺 | Hosting • Deployment • CI/CD • S3 • Sentry</h3>
 
 <p align="center">
   <a href="https://github.com/Gevorgeorg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Building+robust+APIs;Automating+with+Python;Shipping+with+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Building+robust+backends;Deploying+with+CI/CD;Integrating+S3+and+Sentry;Automating+infrastructure" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,18 +24,13 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?logo=amazon-s3&logoColor=white)
+![Sentry](https://img.shields.io/badge/-Sentry-3C2A6D?logo=sentry&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
 
 ---
 
-### 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" max-width="600px" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100%" max-width="600px" />
+  <br><i>From code to production — reliably and fast.</i>
 </div>
