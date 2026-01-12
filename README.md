@@ -3,8 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm <a href="https://t.me/ErnestoMK" target="_blank">Leonid</a></h1>
-<h3 align="center">Backend Developer from Moscow 🇷🇺 | Hosting • Deployment • CI/CD • S3 • Sentry</h3>
-
+<h3 align="center">My name is Leonid Sidelnikov. I'm a backend developer from Moscow(🇷🇺) who writes code, hosts, and deploys it.</h3>
 <p align="center">
   <a href="https://github.com/Gevorgeorg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Building+robust+backends;Deploying+with+CI/CD;Integrating+S3+and+Sentry;Automating+infrastructure" alt="Typing SVG" />
@@ -29,8 +28,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100%" max-width="600px" />
-  <br><i>From code to production — reliably and fast.</i>
-</div>
