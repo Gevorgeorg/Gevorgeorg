@@ -4,12 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://t.me/ErnestoMK" target="_blank">Leonid</a></h1>
 <h3 align="center">My name is Leonid Sidelnikov.<br>
-  I'm a backend developer from Moscow(🇷🇺) who writes code, hosts, and deploys it.</h3>
+  I'm a backend developer from Moscow(🇷🇺) who writes code, hosts, and deploys it.
+</h3>
 <p align="center">
-  <a href="https://github.com/Gevorgeorg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Building+robust+backends;
-      Deploying+with+CI/CD;Integrating+3rd-party+services+(S3,+Sentry,+Telegram,+etc.)" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Building+robust+backends;Deploying+with+CI%2FCD;Integrating+3rd-party+services+%28S3%2C+Sentry%2C+Telegram%2C+etc.%29" alt="Typing SVG" />
 </p>
 
 ---
